@@ -12,6 +12,6 @@ In the Maven Sales Challenge, I have been tasked with the role of BI Developer. 
 
 ### Tools and Technologies Used
 1. **Power BI**: The primary tool used in this project was Power BI, which facilitated the creation of visualizations and dashboards to extract and display insights from our data. We also utilized the Power BI service, enabling us to generate an interactive web link for seamless navigation and interaction with the report.
-2. **Power Query Editor**: An advanced feature of Power BI, Power Query Editor was employed for data transformation and cleaning. This tool allowed us to perform various operations such as removing duplicates, eliminating blank rows, formatting columns, and replacing values across different columns.
-4. **Microsoft Excel**: Although used minimally, Microsoft Excel played a crucial role at the beginning of the project. It helped us understand the data structure and served as a guide for subsequent data transformations using Power Query Editor.
+2. **Power Query Editor**: An advanced feature of Power BI, Power Query Editor was employed for data transformation and cleaning. This tool allowed me to perform various operations such as removing duplicates, eliminating blank rows, formatting columns, and replacing values across different columns.
+4. **Microsoft Excel**: Although used minimally, Microsoft Excel played a crucial role at the beginning of the project. It helped me understand the data structure and served as a guide for subsequent data transformations using Power Query Editor.
 
