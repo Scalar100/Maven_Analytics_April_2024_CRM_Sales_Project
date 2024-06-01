@@ -8,6 +8,6 @@ I am part of **MavenTech**, a company dedicated to providing computer hardware t
 
 In the Maven Sales Challenge, I have been tasked with the role of BI Developer. My objective is to assist MavenTech in becoming a truly data-driven organization. To achieve this, I will create an interactive dashboard designed to give our sales managers clear and actionable insights into their teams' quarterly performance. This tool will enable them to optimize their sales strategies, make better-informed decisions, and ultimately drive better business outcomes.
 
-Click to interact with the Power BI report: https://app.powerbi.com/view?r=eyJrIjoiNzQ1N2E0NjMtZTQ3My00MjRjLWI1YmUtM2JhYzJkOTNlNDZkIiwidCI6IjFkZDZlZmUxLTk4MDctNGM1Yy04NzJiLWJmZDExZDIyNGEzMSJ9
+[Click to interact with the Power BI report](https://app.powerbi.com/view?r=eyJrIjoiNzQ1N2E0NjMtZTQ3My00MjRjLWI1YmUtM2JhYzJkOTNlNDZkIiwidCI6IjFkZDZlZmUxLTk4MDctNGM1Yy04NzJiLWJmZDExZDIyNGEzMSJ9)
 
 ## Overview of the Data
