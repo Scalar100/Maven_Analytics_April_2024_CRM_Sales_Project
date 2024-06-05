@@ -11,7 +11,12 @@ In the Maven Sales Challenge, I have been tasked with the role of BI Developer. 
 [Click to interact with the Power BI report](https://app.powerbi.com/view?r=eyJrIjoiNzQ1N2E0NjMtZTQ3My00MjRjLWI1YmUtM2JhYzJkOTNlNDZkIiwidCI6IjFkZDZlZmUxLTk4MDctNGM1Yy04NzJiLWJmZDExZDIyNGEzMSJ9)
 
 ### Tools and Technologies Used
-1. **Power BI**: The primary tool used in this project was Power BI, which facilitated the creation of visualizations and dashboards to extract and display insights from our data. We also utilized the Power BI service, enabling us to generate an interactive web link for seamless navigation and interaction with the report.
-2. **Power Query Editor**: An advanced feature of Power BI, Power Query Editor was employed for data transformation and cleaning. This tool allowed me to perform various operations such as removing duplicates, eliminating blank rows, formatting columns, and replacing values across different columns.
-4. **Microsoft Excel**: Although used minimally, Microsoft Excel played a crucial role at the beginning of the project. It helped me understand the data structure and served as a guide for subsequent data transformations using Power Query Editor.
+1. **Power BI**: The primary tool used in this project was Power BI, which facilitated the creation of visualizations and dashboards to extract and display insights from the data. I also utilized the Power BI service, enabling the generation of an interactive web link for seamless navigation and interaction with the report.
+2. **Power Query Editor**: An advanced feature of Power BI, Power Query Editor was employed for data transformation and cleaning. This tool was used to perform various operations such as removing duplicates, eliminating blank rows, formatting columns, and replacing values across different columns.
+4. **Microsoft Excel**: Microsoft Excel played a crucial role at the beginning of the project. It helped in the understanding of the the data structure, some light data cleaning and also served as a guide for subsequent data transformations using the Power Query Editor.
+   
+### Data Model
+The data model was generated automatically in Power BI. It automatically detected the relationships and cardinality between the various tables used in this project.
 
+### Data Collection
+The data for this project was obtained from the official **Maven Analytics** website. It includes sales opportunities from various accounts, encompassing multiple regions and industries. The dataset provides key metrics such as account details, product information, sales team data, and the status of each sales opportunity, as outlined in the data overview above.
