@@ -66,8 +66,10 @@ The objective of this project is to analyze the sales pipeline data and provide 
 4.	Enable informed decision-making by stakeholders at various levels of the organization, from sales managers to executives, through intuitive visualizations and clear presentations of findings.
 Ultimately, the goal is to empower the organization to make data-driven decisions that drive growth, increase revenue, and strengthen competitiveness in the market.
 
+### Data Collection
+The data for this project was obtained from the official [**Maven Analytics** website](https://mavenanalytics.io/challenges/maven-sales-challenge/8f59bcfa-d310-4947-b3d8-917b3cce270e). It includes sales opportunities from various accounts, encompassing multiple regions and industries. The dataset provides key metrics such as account details, product information, sales team data, and the status of each sales opportunity, as outlined in the data overview above.
+
 ### Data Model
 The data model was automatically generated in Power BI. It automatically detected the relationships and cardinality between the various tables used in this project.
 
-### Data Collection
-The data for this project was obtained from the official [**Maven Analytics** website](https://mavenanalytics.io/challenges/maven-sales-challenge/8f59bcfa-d310-4947-b3d8-917b3cce270e). It includes sales opportunities from various accounts, encompassing multiple regions and industries. The dataset provides key metrics such as account details, product information, sales team data, and the status of each sales opportunity, as outlined in the data overview above.
+
