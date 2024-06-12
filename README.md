@@ -46,6 +46,8 @@ The data was cleaned and transformed using both the Microsoft Excel and the Powe
 #### Data Dictionary
 The data dictionary provides detailed descriptions for each field across all worksheets to ensure clarity and consistency in understanding and using the data.
 
+The CSV files used as well as the dashboard generted in this project have been included in the repository.
+
 ### Tools and Technologies Used
 1. **Power BI**: The primary tool used in this project was Power BI, which facilitated the creation of visualizations and dashboards to extract and display insights from the data. I also utilized the Power BI service, enabling the generation of an interactive web link for seamless navigation and interaction with the report.
 2. **Power Query Editor**: An advanced feature of Power BI, Power Query Editor was employed for data transformation and cleaning. This tool was used to perform various operations such as removing duplicates, eliminating blank rows, formatting columns, and replacing values across different columns.
