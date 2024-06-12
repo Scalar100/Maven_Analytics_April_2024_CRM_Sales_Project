@@ -27,6 +27,9 @@ The data was cleaned and transformed using both the Microsoft Excel and the Powe
 - **Text Formatting**: Columns such as `product` and `account` were cleaned, trimmed, and capitalized to ensure consistency.
 - **Header Promotion**: Ensured that the first row of each column was promoted to header status for clarity.
 - **Column Renaming**: Columns were renamed for better readability.
+- **Creating Tables**: Data on each worksheet was transformed into table by using the Cntr-A then Cntr-T functions.
+- **Creating Id**: Account ID,	Product ID, and	Sales Agent ID were created and linked to the other tables for easy generation of relationship on Power BI.
+- **Merging all data**: Data from the different worksheets were transferred into a single worksheet for easy usage.
 
 #### Description of the Worksheets
 1. **Sales Pipeline Worksheet**
@@ -46,7 +49,7 @@ The data was cleaned and transformed using both the Microsoft Excel and the Powe
 #### Data Dictionary
 The data dictionary provides detailed descriptions for each field across all worksheets to ensure clarity and consistency in understanding and using the data.
 
-The CSV files used as well as the dashboard generted in this project have been included in the repository.
+The CSV files used as well as the one containing all the data from the rest and the dashboard generted in this project have been included in the repository.
 
 ### Tools and Technologies Used
 1. **Power BI**: The primary tool used in this project was Power BI, which facilitated the creation of visualizations and dashboards to extract and display insights from the data. I also utilized the Power BI service, enabling the generation of an interactive web link for seamless navigation and interaction with the report.
