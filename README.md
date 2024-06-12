@@ -1,7 +1,7 @@
 # Maven_Analytics_April_2024_CRM_Sales_Project
 
 ### Executive Summary
-This project utilizes a dataset from the April 2024 Maven Analytics Sales Challenge. It presents an interactive Power BI dashboard tailored for sales managers to monitor their team's quarterly performance. The dashboard offers detailed tracking of performance metrics for managers and sales agents, segmented by sector, product, and location.
+This project utilizes a dataset from the April 2024 [Maven Analytics Sales Challenge](https://mavenanalytics.io/challenges/maven-sales-challenge/8f59bcfa-d310-4947-b3d8-917b3cce270e). It presents an interactive Power BI dashboard tailored for sales managers to monitor their team's quarterly performance. The dashboard offers detailed tracking of performance metrics for managers and sales agents, segmented by sector, product, and location.
 
 ### Project Background
 The B2B sales of computer hardware play a crucial and evolving role within the technology industry. To maintain a competitive edge, it's essential for businesses to understand sales trends, product performance, and client preferences. Utilizing data-driven insights is key to making informed decisions about inventory management, sales strategies, and targeted marketing.
